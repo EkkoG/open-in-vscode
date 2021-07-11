@@ -7,7 +7,7 @@ Screenshot
 
 ### Usage
 
-Install (Tampermonkey)[https://www.tampermonkey.net/] or (Violentmonkey)[https://violentmonkey.github.io/] first
+Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) first
 
 Open https://github.com/cielpy/open-in-vscode/raw/master/open-in-vscode.user.js
 
